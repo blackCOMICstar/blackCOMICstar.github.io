@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Punk! Peace! Nature! HapPy!
+VIVA! Punk! pEace! nAture! Create! rEvolution!
 
 ### More Information
 
