@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Punk! Peace! Nature! HapPy!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+니가나를모르는데난들너를알겠느냐 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kyeop01@gmail.com](mailto:kyeop01@gmail.com)
