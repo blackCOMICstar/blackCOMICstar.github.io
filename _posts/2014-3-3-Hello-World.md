@@ -3,8 +3,7 @@ layout: post
 title: F*cKing Awesome!
 ---
 
-h1(Is this title?)
-Normal Text _Italic_ Normal **Again!!**
+Normal _Italic_ **Extra!!**
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
