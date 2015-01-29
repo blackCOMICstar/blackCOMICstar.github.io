@@ -5,6 +5,6 @@ title: F*cKing Awesome!
 
 Normal _Italic_ **Extra!!**
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![battleduck_emo](https://cloud.githubusercontent.com/assets/10589607/5951601/e18fd470-a7ac-11e4-8dc5-0b244674639d.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+gogo **Battle Comics** [battlecomics](http://battlecomics.co.kr/)
